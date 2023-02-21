@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AR game**
 
-- 🌱 I’m currently learning **VR and Computer Version**
+- 🌱 I’m currently learning **VR and CV**
 
 - 👨‍💻 All of my projects are available at [https://sunyux.github.io/yuxin/](https://sunyux.github.io/yuxin/)
 
